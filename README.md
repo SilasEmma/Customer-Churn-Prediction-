@@ -15,7 +15,7 @@ Step 3: Clone the repository
     mkdir Project
     cd Project
 
-    git clone https://github.com/SilasEmma/FraudProject.git
+    git clone https://github.com/SilasEmma/Customer-Churn-Prediction-.git
 
 Step 4: Install Python libraries
 
@@ -40,7 +40,7 @@ Supervised Learning tasks (Classification Problem)
     2. Sklearn.
     3. Matplotlib and Seaborn.
     4. MLflow
-    5. PyGad
+   
 
 **Table of Content**
 
